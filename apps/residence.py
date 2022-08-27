@@ -17,11 +17,12 @@ def app():
 
     st.write("""
 
-    **Data scraped** from [this spreadsheet](https://docs.google.com/spreadsheets/d/1wgj2UV1zP8XUg-tbZvh687CwJ-VdbKZkpX-te0UbwUg/edit#gid=787354345) 
+    **Data scraped** from [this spreadsheet](https://docs.google.com/spreadsheets/d/1wgj2UV1zP8XUg-tbZvh687CwJ-VdbKZkpX-te0UbwUg/edit#gid=787354345)
 
 
     """)
-    st.markdown("  ")
+    st.markdown("Consists of only Engineering submissions.")
+    st.markdown("   ")
 
 
     st.write("""
